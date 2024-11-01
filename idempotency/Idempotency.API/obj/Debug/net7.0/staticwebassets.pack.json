@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\repos\\idempotency\\Idempotency.API\\wwwroot\\swagger_custom.css",
+      "PackagePath": "staticwebassets\\swagger_custom.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Idempotency.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Idempotency.API.props",
+      "PackagePath": "build\\Idempotency.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Idempotency.API.props",
+      "PackagePath": "buildMultiTargeting\\Idempotency.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Idempotency.API.props",
+      "PackagePath": "buildTransitive\\Idempotency.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

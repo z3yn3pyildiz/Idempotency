@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "6pGOONejpMUcZPthHypYovzreoIPqE2TR2L98ZMwhR4=",
+  "Source": "Idempotency.API",
+  "BasePath": "_content/Idempotency.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Idempotency.API\\wwwroot",
+      "Source": "Idempotency.API",
+      "ContentRoot": "C:\\repos\\idempotency\\Idempotency.API\\wwwroot\\",
+      "BasePath": "_content/Idempotency.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\repos\\idempotency\\Idempotency.API\\wwwroot\\swagger_custom.css",
+      "SourceId": "Idempotency.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\repos\\idempotency\\Idempotency.API\\wwwroot\\",
+      "BasePath": "_content/Idempotency.API",
+      "RelativePath": "swagger_custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger_custom.css"
+    }
+  ]
+}
